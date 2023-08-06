@@ -6,4 +6,4 @@ A Jekyll implementation of the [Stylish Portfolio](http://startbootstrap.com/tem
 
 - Start by adding your info in `_config.yml`
 - In `_layouts/front.html` reorder or remove section as you prefer.
-- The `stylish.css` inside of `css` has the callout image and other images that can be changed.
+- The `stylish-portfolio.css` inside of `css` has the callout image and other images that can be changed.
