@@ -7,3 +7,4 @@ A Jekyll implementation of the [Stylish Portfolio](http://startbootstrap.com/tem
 - Start by adding your info in `_config.yml`
 - In `_layouts/front.html` reorder or remove section as you prefer.
 - The `stylish-portfolio.css` inside of `css` has the callout image and other images that can be changed.
+- Background html colors now are dark charcoal with white text. To change blue look for #337ab7 in .css files.
